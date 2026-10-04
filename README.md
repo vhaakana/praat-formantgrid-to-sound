@@ -26,4 +26,4 @@ The full modified source code is available in this repository under the **GNU Ge
 ### About the Licensing
 Most of the source code of Praat is distributed on GitHub under the General Public License, [version 2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html) or later. However, as the program includes software written by others, the whole of the program is distributed under the General Public License, [version 3](https://www.fon.hum.uva.nl/praat/manual/General_Public_License__version_3.html) or later. 
 
-See [Acknowledgments](https://www.fon.hum.uva.nl/praat/manual/Acknowledgments.html) for details on the licenses of software libraries by others that are included in Praat. Of course, any improvements in the Praat source code are welcomed by the authors.
+See [Acknowledgments](https://www.fon.hum.uva.nl/praat/manual/Acknowledgments.html) for details on the licenses of software libraries by others that are included in Praat.
