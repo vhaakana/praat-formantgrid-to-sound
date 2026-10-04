@@ -8,7 +8,7 @@ This is an unofficial, modified version of **Praat 6.4.34** that includes suppor
 
 ## Downloads
 
-* **Windows (64-bit):** `praat6434wformantgridtosound-win64.zip` (compiled on Windows 10)
+* **Windows (64-bit):** `Praat6434wFormantGridToSound-win64.zip` (compiled on Windows 10)
   * Extract the `.zip` archive and run `Praat6434wFormantGridToSound.exe`.
 * **Linux (64-bit):** `praat6434wformantgridtosound-linux64.tar.gz` (compiled on Zorin OS 16.3; requires GLIBC 2.29 or newer, so e.g. Ubuntu 18.04 is too old for this to work)
   * Extract with `tar -xzf praat6434wformantgridtosound-linux64.tar.gz` and run `./praat6434wformantgridtosound`.
