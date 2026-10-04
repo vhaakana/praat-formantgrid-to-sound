@@ -1,6 +1,6 @@
 # Praat 6.4.34 (FormantGrid to Sound Fork)
 
-This is an unofficial, modified version of **Praat 6.4.34** that includes support for converting **FormantGrid to Sound** instead of just playback, which is the limit in official Praat releases as of October 2026.
+This is an unofficial, modified version of **Praat 6.4.34** that includes support for converting **FormantGrid to Sound** instead of just playback, which is the limit in official Praat releases as of 4 October 2026.
 
 > ⚠️ **Note:** This is a one-time community release and an unofficial fork. It is not maintained by or affiliated with the official Praat development team (Paul Boersma, David Weenink, nor Anastasia Shchupak, who was added as Praat's third author in version 6.4.67).
 
